@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.centre {
+  display: flex;
+  justify-content: center;
+}
+
+.cent {
+	display: flex;
+}
+
+.particles {
+  position:fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.welcome {
+  border: solid black 2px;
+  border-radius: 4px;
+  width: 90%;
+  margin: auto;
+}
